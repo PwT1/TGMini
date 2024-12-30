@@ -1,10 +1,4 @@
 {
-  "records": [
-    {
-      "version": "TGMini Business v0.0.1",
-      "code": 3,
-      "url": "https://youtube.com/@TiagoModss",
-      "changelog": "- Dot and Online Status - Customize Home and Chat UI"
-    }
-  ]
+    "VERSION_NAME": "19.1",
+    "WEBSITE_URL": "https://t.me/xWhatsAppX"
 }
